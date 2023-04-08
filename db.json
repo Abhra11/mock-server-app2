@@ -186,7 +186,30 @@
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
-      "borrowed": false
+      "borrowed": false,
+      "id": 1
+    },
+    {
+      "image_url": "https://d3i5mgdwi2ze58.cloudfront.net/7hqv6ddaqv363p4hadx6lymotow1",
+      "book_name": " In Search of Lost Time",
+      "author": "Mr. X",
+      "genre": "Fiction",
+      "edition": "",
+      "publisher": "X corp",
+      "cost": "499",
+      "borrowed": false,
+      "id": 2
+    },
+    {
+      "image_url": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg?w=600&q=60",
+      "book_name": "To Kill a Mockingbird",
+      "author": "Mrs. Y",
+      "genre": "History",
+      "edition": "2021",
+      "publisher": "Mr. Y Corp",
+      "cost": "599",
+      "borrowed": false,
+      "id": 3
     }
   ]
 }
